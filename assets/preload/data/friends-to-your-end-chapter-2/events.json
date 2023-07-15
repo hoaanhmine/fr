@@ -1,0 +1,1116 @@
+{
+	"song": {
+		"events": [
+			[
+				924.657534246575,
+				[
+					[
+						"Screen Shake",
+						"2, 0.01",
+						"2, 0.01"
+					]
+				]
+			],
+			[
+				3698.6301369863,
+				[
+					[
+						"Screen Shake",
+						"2, 0.01",
+						"2, 0.01"
+					]
+				]
+			],
+			[
+				6575.34246575342,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"LOUE"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66061.6438356165,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				130579.557428872,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				185519.316465016,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				185519.316465016,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				256307.195252895,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"URPLE"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				298973.861919561,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"CARROT"
+					],
+					[
+						"change_stage",
+						"rainbowfriendchapter22",
+						"rainbowfriendchapter2"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				309640.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				320307.195252894,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				330973.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				341640.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					],
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				341723.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				341807.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				341890.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				341973.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				342057.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				342223.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				342307.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				342390.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				342473.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				342557.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				342640.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				342723.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				342807.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				342890.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				342973.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				343057.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				343223.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				343307.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				343390.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				343473.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				343557.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				343640.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				343807.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				343890.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				343973.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				344057.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				344140.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				344223.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				344307.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				344390.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				344557.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				344640.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				344723.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				344807.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				344890.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				344973.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				345057.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				345140.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				345223.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				345307.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				345390.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				345473.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				345557.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				345640.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				345723.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				345807.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				345890.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				345973.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				346057.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				346223.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				346307.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				346390.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				346473.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				346557.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				346640.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				346723.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				346807.195252894,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				346890.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				346973.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				347140.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				347473.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				347640.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				347807.195252893,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				347973.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				348140.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				348307.195252893,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				348473.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				348807.195252893,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				348973.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				349140.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				349307.195252893,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				349473.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				349640.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				349807.195252893,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				349973.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				350140.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				350307.195252893,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				350473.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				350640.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				350807.195252893,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				350973.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				351140.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				351307.195252893,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				351473.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				351640.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				351807.195252893,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				351973.86191956,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ELLOW"
+					]
+				]
+			],
+			[
+				352140.528586227,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"REEN"
+					]
+				]
+			],
+			[
+				352307.195252893,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"Dad",
+						"invisible gf with huge boobs"
+					]
+				]
+			],
+			[
+				354973.86191956,
+				[
+					[
+						"change_stage",
+						"rainbowfriendchapter3",
+						"rainbowfriendchapter22"
+					],
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"Dad",
+						"YAN"
+					]
+				]
+			],
+			[
+				402973.861919559,
+				[
+					[
+						"Image Flash",
+						"BlueThrone",
+						"10"
+					]
+				]
+			]
+		]
+	}
+}

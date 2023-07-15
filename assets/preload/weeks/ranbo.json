@@ -1,0 +1,32 @@
+{
+	"storyName": "VS Rainbow Friends UNOFFICIAL CHAPTER 2 REMIX",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "extrasad",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Friends To Your End Chapter 2",
+			"nlue",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "RainbowFriend"
+}
